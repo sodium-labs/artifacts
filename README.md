@@ -4,10 +4,10 @@ Most of the files contained in this repository are generated automatically and a
 
 ## Docs files
 
-The documentation files of our TypeScript modules are generated automatically and copied here. They are then used to generate our docs website.
+The documentation files of our TypeScript packages are generated automatically and copied here. They are then used to generate our docs website.
 
 Paths:
 ```
-/docs/modules/<packageName>/<version>/docs.api.json
-/docs/modules/<packageName>/<version>/README.md
+/docs/packages/<packageName>/<version>/docs.api.json
+/docs/packages/<packageName>/<version>/README.md
 ```
